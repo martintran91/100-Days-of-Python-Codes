@@ -1,2 +1,7 @@
 # 100-Days-of-Python-Codes
-This is where I will keep the codes for each project I complete.
+Test out my games/apps!
+
+# Beginner Projects
+
+## 1 Band Name generator
+[Click Here](https://replit.com/@MartinTran6/Band-Name-Generator?v=1)
